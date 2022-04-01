@@ -1,3 +1,7 @@
+-- The OVER() clause signifies a window of rows over which a window function is applied. 
+-- It can be used with aggregate functions, thereby turning it into a window function.
+
+
 -- Using Database
 
 Use [SQL-Window-Functions];
